@@ -9,4 +9,4 @@ dependencies:
   version: 2.3.56
 - name: docker-kubernetes-hello-world
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.0
+  version: 0.1.3
